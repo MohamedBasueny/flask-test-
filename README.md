@@ -1,2 +1,2 @@
-# flask-test-
+# flask-test-openai
 testing flask capabilities 
